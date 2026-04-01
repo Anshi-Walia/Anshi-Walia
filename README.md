@@ -1,17 +1,12 @@
 ## 👋 Hi, I'm Anshi Walia
 
-🚀 Web Developer | React.js | WordPress | Shopify
+🚀 Web Developer | React.js | WordPress | SEO
 
-Web Developer with 2+ years of experience building responsive, high-performance, and SEO-friendly websites and web applications.
+Web Developer with 2+ years of experience building responsive, high-performance, and SEO-optimized websites and web applications.
 
 ### 💻 Skills
 
-Frontend: HTML5, CSS3, JavaScript (ES6+), React.js
-UI: Tailwind CSS, Bootstrap, Responsive Design
-Animations: GSAP, Locomotive Scroll, Swiper.js
-CMS: WordPress, WooCommerce, Shopify
-Tools: Git, GitHub, VS Code, NPM
-Other: SEO, Performance Optimization, Cross-Browser Compatibility
+HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Bootstrap, GSAP, Locomotive Scroll, Swiper.js, WordPress, WooCommerce, Shopify, Git, GitHub, VS Code, NPM, Responsive Design, Cross-Browser Compatibility, SEO, Performance Optimization
 
 ### 💼 Experience
 
